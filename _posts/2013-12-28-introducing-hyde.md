@@ -2,8 +2,31 @@
 layout: post
 title: Introducing Hyde
 ---
+<p><a href="mailto:emanuele.dalsasso@telecom-paris.fr">emanuele.dalsasso@telecom-paris.fr</a></p>
+Currently working on deep learning for multi-dimensional SAR image analysis in the
+          context of ASTRAL project (Apprentissage StaTistique pour l’imageRie sAr muLtidimensionnelle) with <a href="https://perso.telecom-paristech.fr/tupin/">Florence Tupin</a>,
+            <a href="https://perso.univ-st-etienne.fr/deniloic/">Loïc Denis</a>, <a href="https://cedric.cnam.fr/~rambourc/">Clément Rambour</a> and <a href="https://cedric.cnam.fr/~thomen/">Nicolas Thome</a>. 
 
-Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+<div class="social-icons">
+          <a href="https://www.linkedin.com/in/emanuele-dalsasso-2b1b19152/">
+            <i class="fa fa-linkedin"></i>
+          </a>
+          <a href="https://github.com/emanueledalsasso/">
+            <i class="fa fa-github"></i>
+          </a>
+          <a href="https://www.researchgate.net/profile/Emanuele_Dalsasso">
+            <i class="fab ai ai-researchgate"></i>
+          </a>
+          <a href="https://scholar.google.com/citations?view_op=list_works&hl=it&user=4bfkX98AAAAJ&gmla=AJsN-F4TwQLNq_0mDDnmjNmYbQPXo9A9j6_8_kiE6nnKieFIMi3FUeFXagfJ1XnT0wQI-9BVtisgrDagnQ8-tgeZo_aciilvtfwAKMp7_SapxkHxhXUFdBD1Xglj6dd92M69YYLlUXx0">
+            <i class="fab ai ai-google-scholar"></i>
+          </a>
+          <a href="./CV/CV_Emanuele_Dalsasso.pdf">
+            <i class="fab ai ai-cv"></i>
+          </a>
+        </div>
+
+          
+          
 
 ### Built on Poole
 
