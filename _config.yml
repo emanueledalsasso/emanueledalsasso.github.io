@@ -11,7 +11,7 @@ title:            Emanuele Dalsasso
 tagline:          'About me'
 description:      '<p><a href="mailto:emanuele.dalsasso@telecom-paris.fr">emanuele.dalsasso@telecom-paris.fr</a></p>
                   Post-doctoral researcher at <a href="https://cedric.cnam.fr/lab/equipes/vertigo/">CNAM</a>, Paris, France.'
-url:              http://emanueledalsasso.github.io/
+url:              http://emanueledalsasso.github.io
 baseurl:          /
 
 author:
