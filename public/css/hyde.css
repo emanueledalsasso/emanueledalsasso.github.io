@@ -65,7 +65,7 @@ html {
     top: 0;
     left: 0;
     bottom: 0;
-    width: 18rem;
+    width: 15rem;
     text-align: left;
   }
 }
@@ -122,22 +122,24 @@ a.sidebar-nav-item:focus {
  */
 
 .content {
+  text-align: justify;
+  text-justify: inter-word;
   padding-top:    4rem;
   padding-bottom: 4rem;
 }
 
 @media (min-width: 48em) {
   .content {
-    max-width: 38rem;
-    margin-left: 20rem;
-    margin-right: 2rem;
+    max-width: 48rem;
+    margin-left: 18rem;
+    margin-right: 1rem;
   }
 }
 
 @media (min-width: 64em) {
   .content {
-    margin-left: 22rem;
-    margin-right: 4rem;
+    margin-left: 20rem;
+    margin-right: 2rem;
   }
 }
 
@@ -247,4 +249,25 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .content a,
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
+}
+
+/* ED */
+.theme-ED .sidebar {
+  background-color: #7D2020;
+}
+.theme-ED .content a,
+.theme-ED .related-posts li a:hover {
+  color: #7D2020;
+}
+
+.post-date-ED {
+  display: block;
+  margin-top: 2rem;
+  margin-bottom: 0.2rem;
+  color: #9a9a9a;
+}
+
+.subheading-ED {
+  display: block;
+  color: #9a9a9a;
 }
