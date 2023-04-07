@@ -3,7 +3,7 @@
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
       <h2>
-        <a href="{{ site.baseurl }}">
+        <a href="{{ site.baseurl | relative_url }}">
           {{ site.title }}
         </a>
       </h2>
@@ -12,7 +12,7 @@
 
 
 
-      <img src="{{ site.baseurl }}public/Emanuele_DALSASSO_1MB.jpg" alt="hi" class="inline"/>
+      <img src="{{ 'public/Emanuele_DALSASSO_1MB.jpg' | relative_url  }}" alt="hi" class="inline"/>
 
 
 
@@ -26,7 +26,7 @@
 
 
 
-      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
+      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl | relative_url }}">About</a>
 
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
