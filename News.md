@@ -2,6 +2,12 @@
 layout: page
 title: News
 ---
+<span class="post-date-ED"> 27/04/2023 </span>
+I presented my post-doctoral work on self-supervised SAR image segmentation at the Deep Learning Working Group of IMAGES team, Télécom Paris.
+
+<span class="post-date-ED"> 26/04/2023 </span>
+Each year, the departments of the Institut Polytechnique de Paris award the “PhD Thesis Award of the Department...” in order to distinguish particularly innovative doctoral work of exceptional quality. The IDIA (Informatics, Data and Artificial Intelligence) committee for the **best PhD 2022** of the Institut Polytechnique de Paris has awarded my Ph.D work. More precisely, the committee has awarded: Antonin Leroux (LIX) as first prize for IDIA, Cameron Calk (LIX) as accessit, Emanuele Dalsasso (LTCI) as accessit, Elie Michel (LTCI) as accessit. The IDIA department is composed by the following laboratories: Laboratoire Traitement et Communication de l’Information (LTCI), Laboratoire d’Informatique (LIX), L’Unité Mixte de Recherche SAMOVAR, UER d’Informatique et d’Ingénierie des Systèmes (U2IS), Centre de Mathématiques Appliquées (CMAP). 
+
 
 <span class="post-date-ED"> 17/01/2023 </span>
 On 2023, January the 17th I presented my Ph.D work on self-supervised deep learning methods for SAR despeckling at the <a href="https://ml-tuw.github.io/">Machine Learning Research Unit</a> seminar of <a href="https://informatics.tuwien.ac.at/">TU Wien informatics</a>.
