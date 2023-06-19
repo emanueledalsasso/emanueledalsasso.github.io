@@ -3,6 +3,11 @@ layout: page
 title: Teaching
 ---
 
+## 2023
+- [TDMA Summer School](tdma2023.sciencesconf.org/)
+  - [introductory course on Deep Learning](https://tdma2023.sciencesconf.org/data/Cours_Dalsasso.pdf) (1,5h)
+  - Practical session on Remote Sensing data processing (2h)
+
 ## 2020
 - Remote Sensing
   - [Course syllabus](https://mvaisat.wp.imt.fr/)

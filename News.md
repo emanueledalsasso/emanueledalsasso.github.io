@@ -2,6 +2,9 @@
 layout: page
 title: News
 ---
+<span class="post-date-ED"> 05-09/06/2023 </span>
+The [TDMA Summer School](tdma2023.sciencesconf.org/) (*Traitement des Données Massives et Apprentissage: Applications en géophysique, écologie et SHS*) was held in Grenoble, 5-9 June 2023. I gave out an [introductory course on Deep Learning](https://tdma2023.sciencesconf.org/data/Cours_Dalsasso.pdf) and a practical work on Remote Sensing data processing, together with Florence Tupin.
+
 <span class="post-date-ED"> 27/04/2023 </span>
 I presented my post-doctoral work on self-supervised SAR image segmentation at the Deep Learning Working Group of IMAGES team, Télécom Paris.
 
