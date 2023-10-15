@@ -271,3 +271,25 @@ a.sidebar-nav-item:focus {
   display: block;
   color: #9a9a9a;
 }
+
+/* ED-EPFL */
+.theme-ED-EPFL .sidebar {
+  background-color: #A01C24;
+}
+.theme-ED-EPFL .content a,
+.theme-ED-EPFL .related-posts li a:hover {
+  color: #A01C24;
+}
+
+.post-date-ED-EPFL {
+  display: block;
+  margin-top: 2rem;
+  margin-bottom: 0.2rem;
+  color: #9a9a9a;
+}
+
+.subheading-ED-EPFL {
+  display: block;
+  color: #9a9a9a;
+}
+

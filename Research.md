@@ -2,10 +2,19 @@
 layout: page
 title: Research
 ---
-I am doing my post-doc within the ASTRAL project, financed by the joint ASTRID program of ANR and AID. Among the objectives of
+
+## Post-doctoral researcher
+<span class="subheading-ED"> October 2023 - ongoing </span>
+Currently working at the ECEO lab of EPFL on ADOPT project. 
+
+
+## Post-doctoral researcher
+<span class="subheading-ED"> March 2022 - September 2023 </span>
+I did my post-doc within the ASTRAL project (Apprentissage StaTistique pour l’imageRie sAr muLtidimensionnelle), financed by the joint ASTRID program of ANR and AID. During my postdoc I worked with <a href="https://perso.telecom-paristech.fr/tupin/">Florence Tupin</a>, <a href="https://perso.univ-st-etienne.fr/deniloic/">Loïc Denis</a>, <a href="https://cedric.cnam.fr/~rambourc/">Clément Rambour</a> and <a href="https://cedric.cnam.fr/~thomen/">Nicolas Thome</a>. Among the objectives of
 the project are the exploration of network architectures suitable for multi-dimensional complex SAR data (inteferometric, polarimetric and tomographic data) and the estimation of uncertainties associated to the network prediction.
 
-
+## Ph.D candidate
+<span class="subheading-ED"> January 2019 - March 2022 </span>
 The subject of my Ph.D was: "Deep Learning for SAR imagery: from denoising to scene understanding". Throughout
 my Ph.D thesis, I have explored supervised, semi-supervised and unsupervised deep learning approaches for speckle reduction from Synthetic Aperture Radar images. The fluctuations
 caused by speckle seriously limit the exploitation of SAR data. The speckle phenomenon has a deterministic yet unpredictable phenomenon: it is often modeled as a random variable and

@@ -9,8 +9,8 @@ permalink:        pretty
 # Setup
 title:            Emanuele Dalsasso
 tagline:          'About me'
-description:      '<p><a href="mailto:emanuele.dalsasso@telecom-paris.fr">emanuele.dalsasso@telecom-paris.fr</a></p>
-                  Post-doctoral researcher at <a href="https://cedric.cnam.fr/lab/equipes/vertigo/">CNAM</a>, Paris, France.'
+description:      '<p><a href="mailto:emanuele.dalsasso@epfl.ch">emanuele.dalsasso@epfl.ch</a></p>
+                  Post-doctoral researcher at <a href="https://www.epfl.ch/labs/eceo/">EPFL</a>, Sion, Switzerland.'
 url:              http://emanueledalsasso.github.io
 baseurl:          /
 
