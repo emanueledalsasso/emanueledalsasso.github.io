@@ -5,7 +5,10 @@ title: Research
 
 ## Post-doctoral researcher
 <span class="subheading-ED"> October 2023 - ongoing </span>
-Currently working at the ECEO lab of EPFL on ADOPT project. 
+Currently with the <a href="https://www.epfl.ch/labs/eceo/en/eceo/">ECEO lab</a>
+of EPFL. Working with <a href="https://people.epfl.ch/devis.tuia">Devis Tuia</a> and <a href="https://marcrusswurm.com/">Marc Rußwurm</a> on 
+<a href="https://www.epfl.ch/labs/eceo/eceo/projects/">ADOPT: AI for Detecting Ocean Plastic Pollution with Tracking</a>, 
+a project founded by the Swiss Data Science Center. 
 
 
 ## Post-doctoral researcher
