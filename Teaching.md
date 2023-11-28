@@ -3,10 +3,14 @@ layout: page
 title: Teaching
 ---
 
-## 2023
+## 2023 - 2024
+- Co-supervising the Master's thesis of Manon Cécile Nicole Béchaz together with Devis Tuia and Marc Rußwurm. She is investigating the use of physical models and hybrid model for tracking buoys in the ocean from metereological data. Her project is a preliminary study for ADOPT's project which will focus on the more challenging problem of tracking floating plastic litter.    
+
 - [IADF Summer School](https://iadf-school.org/)
   - Practical session on Synthetic Aperture Radar data processing (1,5h)
 
+
+## 2022 - 2023
 - [TDMA Summer School](tdma2023.sciencesconf.org/)
   - [introductory course on Deep Learning](https://tdma2023.sciencesconf.org/data/Cours_Dalsasso.pdf) (1,5h)
   - Practical session on Remote Sensing data processing (2h)
