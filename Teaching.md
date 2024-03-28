@@ -5,6 +5,7 @@ title: Teaching
 
 ## 2023 - 2024
 - Co-supervising the Master's thesis of Manon Cécile Nicole Béchaz together with Devis Tuia and Marc Rußwurm. She is investigating the use of physical models and hybrid model for tracking buoys in the ocean from metereological data. Her project is a preliminary study for ADOPT's project which will focus on the more challenging problem of tracking floating plastic litter.    
+- Teaching assistant for the EPFL Master's course [Sensing and spatial modeling for earth observation](https://edu.epfl.ch/coursebook/en/sensing-and-spatial-modeling-for-earth-observation-ENV-408) of the Environmental Sciences and Engineering program: Image matching and orientation (3h)
 
 - [IADF Summer School](https://iadf-school.org/)
   - Practical session on Synthetic Aperture Radar data processing (1,5h)

@@ -26,3 +26,20 @@ To account for specific acquisition modality, introducing speckle spatial correl
 The algorithm relies on the noise2noise framework and on SAR time-series. However, one does not always have access to more images acquired over a same area. With <a href="https://gitlab.telecom-paris.fr/ring/MERLIN">MERLIN</a> we show
 that, somehow counterintuitively, one can exploit the phase of a single-look complex SAR image to produce two independent subimages, namely the real and the imaginary part, creating ideal conditions to
 perform unsupervised learning on single SAR images.
+
+## Reviewing activities
+I have been reviewing for the following journals and conferences:
+- IEEE Geoscience and Remote Sensing Letters
+- IEEE Transactions on Geoscience and Remote Sensing
+- IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+- ISPRS Journal of Photogrammetry and Remote Sensing
+- 2024 IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) 
+- 2024 EarthVision workshop at CVPR
+- 2024 ML4RS workshop at ICLR
+- Journal of Mathematic Imaging and Vision
+- Remote Sensing of Environment
+- IEEE Transactions on Image Processing
+
+
+
+
