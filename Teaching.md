@@ -3,6 +3,10 @@ layout: page
 title: Teaching
 ---
 
+## 2024 - 2025
+- Teaching assistant for the Master's course [Image Processing for Earth Observation](https://edu.epfl.ch/coursebook/fr/image-processing-for-earth-observation-ENV-540) (12h)
+- Supervising the semester project of Samuel Darmon on uncertainty estimation of segmentation models of floating debris. The project investigates the sensitivity of the model to the spectral information.
+
 ## 2023 - 2024
 - Co-supervising the Master's thesis of Manon Cécile Nicole Béchaz together with Devis Tuia and Marc Rußwurm. She is investigating the use of physical models and hybrid model for tracking buoys in the ocean from metereological data. Her project is a preliminary study for ADOPT's project which will focus on the more challenging problem of tracking floating plastic litter.    
 - Teaching assistant for the EPFL Master's course [Sensing and spatial modeling for earth observation](https://edu.epfl.ch/coursebook/en/sensing-and-spatial-modeling-for-earth-observation-ENV-408) of the Environmental Sciences and Engineering program: Image matching and orientation (3h)
