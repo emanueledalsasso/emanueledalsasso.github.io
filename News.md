@@ -2,6 +2,12 @@
 layout: page
 title: News
 ---
+<span class="post-date-ED"> 08-09/11/2024 </span>
+I participated to the [Swiss Geoscience Meeting](https://geoscience-meeting.ch/sgm2024/) in Basel, Switzerland, where I presented my recent work on [Cross-sensor marine debris detection from optical satellites](https://geoscience-meeting.ch/sgm2024/wp-content/uploads/abstract_books/SGM_2024_Symposium_19.pdf).
+
+<span class="post-date-ED"> 11-12/04/2024 </span>
+I participated to the [Data Science for the Sciences conference](https://www.ds4s.ch/about) in Bern, Switzerland, where I presented a poster on [Denoising as a strategy for Detecting Ocean Plastic Pollution with few labels](https://www.ds4s.ch/schedule/poster-session-day-2). Manon Béchaz presenter her Master's thesis work on [Predicting Oceanic Drifts of Plastic Waste with Physical and Data-driven Approaches](https://www.ds4s.ch/schedule/poster-session-day-2) and her poster was awarder with the best poster award of the conference.
+
 <span class="post-date-ED"> 16-17/10/2023 </span>
 I participated to the [Remote Sensing of Marine Litter Workshop 2023](https://atpi.eventsair.com/remote-sensing-of-marine-litter/) at ESA-ESTEC where I presented our poster about [ADOPT: AI for Detecting Ocean Plastic pollution with Tracking]((https://drive.google.com/file/d/14Ejvv5cKcYlaWU7b6_-0Smn0bUtIxyBa/view?usp=share_link)). 
 
