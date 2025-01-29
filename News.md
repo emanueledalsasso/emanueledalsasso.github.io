@@ -12,7 +12,7 @@ I participated to the [Data Science for the Sciences conference](https://www.ds4
 I participated to the [Remote Sensing of Marine Litter Workshop 2023](https://atpi.eventsair.com/remote-sensing-of-marine-litter/) at ESA-ESTEC where I presented our poster about [ADOPT: AI for Detecting Ocean Plastic pollution with Tracking]((https://drive.google.com/file/d/14Ejvv5cKcYlaWU7b6_-0Smn0bUtIxyBa/view?usp=share_link)). 
 
 <span class="post-date-ED"> 05-09/06/2023 </span>
-The [TDMA Summer School](tdma2023.sciencesconf.org/) (*Traitement des Données Massives et Apprentissage: Applications en géophysique, écologie et SHS*) was held in Grenoble, 5-9 June 2023. I gave out an [introductory course on Deep Learning](https://tdma2023.sciencesconf.org/data/Cours_Dalsasso.pdf) and a practical work on Remote Sensing data processing, together with Florence Tupin.
+The [TDMA Summer School](https://tdma2023.sciencesconf.org/?lang=fr) (*Traitement des Données Massives et Apprentissage: Applications en géophysique, écologie et SHS*) was held in Grenoble, 5-9 June 2023. I gave out an [introductory course on Deep Learning](https://tdma2023.sciencesconf.org/data/Cours_Dalsasso.pdf) and a practical work on Remote Sensing data processing, together with Florence Tupin.
 
 <span class="post-date-ED"> 27/04/2023 </span>
 I presented my post-doctoral work on self-supervised SAR image segmentation at the Deep Learning Working Group of IMAGES team, Télécom Paris.
