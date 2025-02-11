@@ -2,6 +2,9 @@
 layout: page
 title: News
 ---
+<span class="post-date-ED"> 31/01/2024 </span>
+Our new article *PolSAR2PolSAR: A semi-supervised despeckling algorithm for polarimetric SAR images* has been accepted for publication in ISPRS Journal of Photogrammetry and Remote Sensing and is [now available online](https://authors.elsevier.com/c/1kXD53I9x1ubIL).
+
 <span class="post-date-ED"> 08-09/11/2024 </span>
 I participated to the [Swiss Geoscience Meeting](https://geoscience-meeting.ch/sgm2024/) in Basel, Switzerland, where I presented my recent work on [Cross-sensor marine debris detection from optical satellites](https://geoscience-meeting.ch/sgm2024/wp-content/uploads/abstract_books/SGM_2024_Symposium_19.pdf).
 
@@ -28,7 +31,7 @@ On 2023, January the 17th I presented my Ph.D work on self-supervised deep learn
 On 2022, July the 27th I presented at the <a href="https://eusar.de/">14th EUSAR Conference</a> our paper entitled "Self-supervised training strategies for SAR image despeckling with deep neural networks". You can access the <a href="https://hal.telecom-paris.fr/hal-03589245v2/document">preprint</a> and to my <a href="https://drive.google.com/file/d/1k0noE2djhe5ohfIThQW8Dx75SdNz1xM0/view?usp=sharing">slides</a>. The article has been awarded the Best Student Paper Award (2nd place).
 
 <span class="post-date-ED"> 27/07/2022 </span>
-I presented the article \textit{"Self-supervised training strategies for SAR image despeckling with deep neural networks"} at EUSAR 2022 conference
+I presented the article *Self-supervised training strategies for SAR image despeckling with deep neural networks* at EUSAR 2022 conference. 
 
 <span class="post-date-ED"> 11/07/2022 </span>
 With the team of engineers of <a href="https://www.hi-paris.fr/">Hi! Paris</a> we just released a python package called <a href="https://github.com/hi-paris/deepdespeckling">deepdespeckling</a> on <a href="https://pypi.org/project/deepdespeckling/">Pypi</a>. It currently implements <a href="https://arxiv.org/pdf/2110.13148.pdf">MERLIN<a/> for TerraSAR-X Stripmap and HighRes SpotLight data. The package will be constantly updated. Hopefully more news will follow soon!
@@ -40,7 +43,7 @@ I was invited to present my Ph.D work on supervised, semi-supervised and self-su
 I presented the self-supervised algorithm MERLIN at the scientific seminar of IMAGES team, Télécom Paris
 
 <span class="post-date-ED"> 14/07/2021  </span>
-I presented the article \textit{"Exploiting multi-temporal information for improved speckle reduction of Sentinel-1 SAR images by deep learning"} at IGARSS 2021 conference
+I presented the article *Exploiting multi-temporal information for improved speckle reduction of Sentinel-1 SAR images by deep learning* at IGARSS 2021 conference
 
 <span class="post-date-ED"> 07/07/2021 </span>
 I presented the SAR2SAR algorithm at the 2nd french INSU-INSIS workshop on remote sensing and Earth observation
@@ -49,7 +52,7 @@ I presented the SAR2SAR algorithm at the 2nd french INSU-INSIS workshop on remot
 I was invited to present the SAR2SAR approach at the $\phi$-lab seminar, ESA (European Spatial Agency)
 
 <span class="post-date-ED"> 01/04/2021 </span>
-I presented the article \textit{"How to handle spatial correlations in SAR despeckling? Resampling strategies and deep learning approaches"} at EUSAR 2020 conference
+I presented the article *How to handle spatial correlations in SAR despeckling? Resampling strategies and deep learning approaches* at EUSAR 2020 conference
 
 <span class="post-date-ED"> 01/03/2021 </span>
 I presented a contribution in SAR time-series despeckling through self-supervised deep learning at the Deep Learning Working Group of IMAGES team, Télécom Paris
