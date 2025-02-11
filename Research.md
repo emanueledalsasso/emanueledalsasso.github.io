@@ -12,13 +12,12 @@ a project founded by the Swiss Data Science Center.
 
 ## Post-doctoral researcher
 <span class="subheading-ED"> September 2022 - September 2023 </span>
-During my post-doc under ASTRAL project (Apprentissage StaTistique pour l’imageRie sAr muLtidimensionnelle) I worked with <a href="https://cedric.cnam.fr/~rambourc/">Clément Rambour</a> and <a href="https://cedric.cnam.fr/~thomen/">Nicolas Thome</a> on self-supervised learning for representation learning in remote sensing.
+During my post-doc under ASTRAL project (Apprentissage StaTistique pour l’imageRie sAr muLtidimensionnelle), funded by the joint ASTRID program of ANR and AID, I worked with <a href="https://cedric.cnam.fr/~rambourc/">Clément Rambour</a> and <a href="https://cedric.cnam.fr/~thomen/">Nicolas Thome</a> on self-supervised learning for representation learning in remote sensing.
 
 
 ## Post-doctoral researcher
 <span class="subheading-ED"> March 2022 - September 2022 </span>
-During my post-doc I worked on ASTRAL project (Apprentissage StaTistique pour l’imageRie sAr muLtidimensionnelle), funded by the joint ASTRID program of ANR and AID, with <a href="https://perso.telecom-paristech.fr/tupin/">Florence Tupin</a> and <a href="https://perso.univ-st-etienne.fr/deniloic/">Loïc Denis</a>. Among the objectives of
-the project are the exploration of network architectures suitable for multi-dimensional complex SAR data (inteferometric, polarimetric and tomographic data).
+During my post-doc with <a href="https://perso.telecom-paristech.fr/tupin/">Florence Tupin</a> and <a href="https://perso.univ-st-etienne.fr/deniloic/">Loïc Denis</a> I worked on network architectures suitable for multi-dimensional complex SAR data (in particular polarimetric SAR data).
 
 ## Ph.D candidate
 <span class="subheading-ED"> January 2019 - March 2022 </span>
