@@ -2,8 +2,19 @@
 layout: page
 title: News
 ---
-<span class="post-date-ED"> 31/01/2024 </span>
+
+<span class="post-date-ED"> 27/02/2025 </span>
+Within the context of ADOPT project (AI for Detecting Ocean Plastic Pollution with Tracking), we submitted two contributions to [EGU General Assembly 2025](https://www.egu25.eu/) and they have both been accepted. Have a look at our abstracts:
+- *Autoregressive denoising diffusion for predicting trajectories of floating objects in oceans*, [abstract available here](https://meetingorganizer.copernicus.org/EGU25/EGU25-11223.html)
+- *A cross-sensor approach for marine litter detection with self-supervised learning*, [abstract available here](https://meetingorganizer.copernicus.org/EGU25/EGU25-8279.html)
+
+They will both be presented in Vienna next May.
+
+<span class="post-date-ED"> 31/01/2025 </span>
 Our new article *PolSAR2PolSAR: A semi-supervised despeckling algorithm for polarimetric SAR images* has been accepted for publication in ISPRS Journal of Photogrammetry and Remote Sensing and is [now available online](https://authors.elsevier.com/c/1kXD53I9x1ubIL).
+
+<span class="post-date-ED"> 20/01/2025 </span>
+Our new article *Just Project! Multichannel Despeckling, the Easy Way* has been accepted for publication in IEEE Transactions on Geoscience and Remote Sensing and is [now available online](https://ieeexplore.ieee.org/abstract/document/10847726).
 
 <span class="post-date-ED"> 08-09/11/2024 </span>
 I participated to the [Swiss Geoscience Meeting](https://geoscience-meeting.ch/sgm2024/) in Basel, Switzerland, where I presented my recent work on [Cross-sensor marine debris detection from optical satellites](https://geoscience-meeting.ch/sgm2024/wp-content/uploads/abstract_books/SGM_2024_Symposium_19.pdf).
