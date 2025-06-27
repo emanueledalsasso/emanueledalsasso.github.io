@@ -3,6 +3,12 @@ layout: page
 title: News
 ---
 
+<span class="post-date-ED"> 24/06/2025 </span>
+This week I am attending the [Living Planet Symposium](https://lps25.esa.int/) happening in Vienna from 23rd to 27th of June. I will present as poster presentation the study we did in the frame of the semester project of Samuel Darmon on *Estimating uncertainty while detecting marine litter from Sentinel-2 imagery*:
+- [Poster](./assets/conferences/2025_LPS/LPS_Poster_Uncertainty.pdf)
+- [Abstract](https://lps25.esa.int/programme/programme-session?id=D0B6689A-3D89-4950-93C1-CB477ADCB915&presentationId=F4D5FE0F-9D2A-40A8-8CEC-1D4E9D5C650C) 
+
+
 <span class="post-date-ED"> 27/02/2025 </span>
 Within the context of ADOPT project (AI for Detecting Ocean Plastic Pollution with Tracking), we submitted two contributions to [EGU General Assembly 2025](https://www.egu25.eu/) and they have both been accepted. Have a look at our abstracts:
 - *Autoregressive denoising diffusion for predicting trajectories of floating objects in oceans*, [abstract available here](https://meetingorganizer.copernicus.org/EGU25/EGU25-11223.html)
