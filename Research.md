@@ -50,6 +50,7 @@ I have been reviewing for the following journals and conferences:
 - 2025 ML4RS workshop at ICLR
 - 2025 EarthVision workshop at CVPR
 - 2025 TerraBytes workshop at ICML
+- 2025 MACLEAN workshop in conjuction with ECML/PKDD 2025
 
 
 
