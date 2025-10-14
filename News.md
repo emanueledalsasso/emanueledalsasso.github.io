@@ -2,6 +2,9 @@
 layout: page
 title: News
 ---
+<span class="post-date-ED"> 15/09/2025 </span>
+I have been appointed as **Co-Lead** of the *Working Group on Image and Signal Processing* of the [IEEE GRSS Technical Committee on Image Analysis and Data Fusion](https://www.grss-ieee.org/technical-committees/image-analysis-and-data-fusion/). Happy to contribute to the IADF activities through the WG-ISP! 
+
 
 <span class="post-date-ED"> 24/06/2025 </span>
 This week I am attending the [Living Planet Symposium](https://lps25.esa.int/) happening in Vienna from 23rd to 27th of June. I will present as poster presentation the study we did in the frame of the semester project of Samuel Darmon on *Estimating uncertainty while detecting marine litter from Sentinel-2 imagery*:
