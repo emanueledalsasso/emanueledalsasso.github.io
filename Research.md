@@ -4,11 +4,15 @@ title: Research
 ---
 
 ## Post-doctoral researcher
-<span class="subheading-ED"> October 2023 - ongoing </span>
-Currently with the <a href="https://www.epfl.ch/labs/eceo/en/eceo/">ECEO lab</a>
-of EPFL. Working with <a href="https://people.epfl.ch/devis.tuia">Devis Tuia</a> and <a href="https://marcrusswurm.com/">Marc Rußwurm</a> on 
-<a href="https://www.epfl.ch/labs/eceo/eceo/projects/">ADOPT: AI for Detecting Ocean Plastic Pollution with Tracking</a>, 
-a project founded by the Swiss Data Science Center. 
+<span class="subheading-ED"> October 2023 - November 2025 </span>
+I was a postdoctoral researcher with the <a href="https://www.epfl.ch/labs/eceo/en/eceo/">ECEO lab</a>
+of EPFL, where I worked with <a href="https://people.epfl.ch/devis.tuia">Devis Tuia</a>, 
+<a href="https://marcrusswurm.com/">Marc Rußwurm</a>, 
+<a href="https://www.datascience.ch/people/christian-donner/">Christian Donner</a> 
+and <a href="https://www.datascience.ch/people/michele-volpi/">Michele Volpi</a>  on 
+<a href="https://www.datascience.ch/projects/adopt/">ADOPT: AI for Detecting Ocean Plastic Pollution with Tracking</a>, 
+a project founded by the 
+<a href="https://www.datascience.ch/">Swiss Data Science Center</a>.
 
 ## Post-doctoral researcher
 <span class="subheading-ED"> September 2022 - September 2023 </span>
