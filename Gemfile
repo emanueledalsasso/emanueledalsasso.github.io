@@ -10,3 +10,9 @@ gem 'pygments.rb'
 # gem "rails"
 
 gem "webrick", "~> 1.8"
+gem "erb"
+gem "bigdecimal"
+gem "logger"
+gem "csv"
+
+gem "base64", "~> 0.3.0"

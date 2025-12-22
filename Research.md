@@ -56,6 +56,8 @@ I have been reviewing for the following journals and conferences:
 - 2025 TerraBytes workshop at ICML
 - 2025 MACLEAN workshop in conjuction with ECML/PKDD 2025
 - 2026 ECML/PKDD
+- 2026 GeoCV Workshop in conjunction with WACV
+- 2026 IEEE International Symposium on Geoscience and Remote Sensing
 
 ## Other academic roles
 - Co-Lead of the WG-ISP of the [IEEE GRSS IADF TC](https://www.grss-ieee.org/technical-committees/image-analysis-and-data-fusion/) (from 15/09/2025)
