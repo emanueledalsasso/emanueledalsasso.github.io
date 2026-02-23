@@ -39,17 +39,20 @@ I have been reviewing for the following journals and conferences:
 - IEEE Geoscience and Remote Sensing Letters
 - IEEE Transactions on Geoscience and Remote Sensing
 - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+- IEEE Transactions on Image Processing
+- IEEE Transactions on Circuits and Systems for Video Technology
 - ISPRS Journal of Photogrammetry and Remote Sensing
-- 2024 IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) 
-- 2024 EarthVision workshop at CVPR
-- 2024 ML4RS workshop at ICLR
 - Journal of Mathematic Imaging and Vision
 - Remote Sensing of Environment
-- IEEE Transactions on Image Processing
 - Transactions on Computational Imaging
 - Transactions on Image Processing
 - Journal of Mathematical Imaging and Vision
-- 2025 IEEE International Symposium on Geoscience and Remote Sensing
+- Nature Sensors
+- International Journal of Applied Earth Observation and Geoinformation
+- 2024 IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) 
+- 2024 EarthVision workshop at CVPR
+- 2024 ML4RS workshop at ICLR
+- 2025 IEEE International Symposium on Geoscience and Remote Sensing - Student Paper Competition
 - 2025 IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) 
 - 2025 ML4RS workshop at ICLR
 - 2025 EarthVision workshop at CVPR
@@ -57,7 +60,9 @@ I have been reviewing for the following journals and conferences:
 - 2025 MACLEAN workshop in conjuction with ECML/PKDD 2025
 - 2026 ECML/PKDD
 - 2026 GeoCV Workshop in conjunction with WACV
-- 2026 IEEE International Symposium on Geoscience and Remote Sensing
+- 2026 IEEE International Symposium on Geoscience and Remote Sensing - Student Paper Competition
+- 2026 EarthVision workshop at CVPR
+
 
 ## Other academic roles
 - Co-Lead of the WG-ISP of the [IEEE GRSS IADF TC](https://www.grss-ieee.org/technical-committees/image-analysis-and-data-fusion/) (from 15/09/2025)
