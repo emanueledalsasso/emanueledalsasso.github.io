@@ -62,6 +62,7 @@ I have been reviewing for the following journals and conferences:
 - 2026 GeoCV Workshop in conjunction with WACV
 - 2026 IEEE International Symposium on Geoscience and Remote Sensing - Student Paper Competition
 - 2026 EarthVision workshop at CVPR
+- 2026 MORSE workshop at CVPR
 
 
 ## Other academic roles
