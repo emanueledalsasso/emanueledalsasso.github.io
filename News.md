@@ -2,6 +2,9 @@
 layout: page
 title: News
 ---
+<span class="post-date-ED"> 18/03/2026 </span>
+On March 18 I will give a talk at phi-lab on Self-supervised learning and representation learning for SAR imagery. If you are interested, please find here the [registration link](https://cin.philab.esa.int/databases/news-db/self-supervised-learning-for-sar-images-from-despeckling-to-representation-learning).
+
 <span class="post-date-ED"> 15/09/2025 </span>
 I have been appointed as **Co-Lead** of the *Working Group on Image and Signal Processing* of the [IEEE GRSS Technical Committee on Image Analysis and Data Fusion](https://www.grss-ieee.org/technical-committees/image-analysis-and-data-fusion/). Happy to contribute to the IADF activities through the WG-ISP! 
 
