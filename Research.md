@@ -64,6 +64,8 @@ I have been reviewing for the following journals and conferences:
 - 2026 EarthVision workshop at CVPR
 - 2026 MORSE workshop at CVPR
 - 2026 TerraBytes workshop at ECCV
+- 2026 MACLEAN workshop in conjuction with ECML/PKDD 2026
+
 
 
 ## Other academic roles
