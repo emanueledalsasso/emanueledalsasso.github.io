@@ -3,6 +3,13 @@ layout: page
 title: Teaching
 ---
 
+## 2026 - 2027
+- Lecturer for the Ensimag Master's course [Generative Multimodal AI](https://m-ai.imag.fr/syllabus/core/advanced_ml/): 9h
+
+
+## 2025 - 2026
+- Teaching assistant for the EPFL Master's course [Image Processing for Earth Observation](https://edu.epfl.ch/coursebook/fr/image-processing-for-earth-observation-ENV-540): 12h + 2h of lecture
+
 ## 2024 - 2025
 - Supervising the Master's thesis of Michelangelo Mussini on the correlation between environmental variables and marine debris outflow in river deltas: a study involving the use of multi-modal remote sensing data and deep learning
 - Teaching assistant for the EPFL Master's course [Image Processing for Earth Observation](https://edu.epfl.ch/coursebook/fr/image-processing-for-earth-observation-ENV-540) (14h)
